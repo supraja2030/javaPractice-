@@ -1,7 +1,6 @@
 package Static;
 
 public class staticNestedClass {
-    static int number;
 
     static class nested{
         static int display() {
